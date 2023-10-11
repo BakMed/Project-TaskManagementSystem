@@ -1,21 +1,13 @@
-# Task-Management-System-Laravel
-# Laravel | Complete Task Management System
+# Task Management System Laravel/ReactJs
 
 
-A simple task management app
 
 ## Getting Started
 
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:codeaamirkalimi/Task-Management-System-Laravel.git
-```
-
-If you use https, use this instead
-
-```bash
-git clone https://github.com/codeaamirkalimi/Task-Management-System-Laravel.git
+git clone https://github.com/BakMed/Project-TaskManagementSystem
 ```
 
 After cloning, run:
